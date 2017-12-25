@@ -70,6 +70,10 @@
 			level="WARN"
 			additivity="false" />
 		<Logger
+			name="com.alibaba"
+			level="WARN"
+			additivity="false" />
+		<Logger
 			name="springfox.documentation"
 			level="WARN"
 			additivity="false" />
