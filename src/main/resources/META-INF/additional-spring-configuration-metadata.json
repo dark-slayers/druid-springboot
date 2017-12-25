@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.datasource.druid.one.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.druid.one.url'"
+  },
+  {
+    "name": "spring.datasource.druid.two.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.druid.two.url'"
+  }
+]}
